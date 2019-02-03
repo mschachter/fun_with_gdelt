@@ -29,13 +29,13 @@ BN,Benin,BEN
 BD,Bermuda,BMU
 BT,Bhutan,BTN
 BL,Bolivia,BOL
-BK,Bosnia-Herzegovina,MISSING
+BK,Bosnia-Herzegovina,BIH
 BC,Botswana,BWA
 BV,Bouvet Island,MISSING
 BR,Brazil,BRA
 IO,British Indian Ocean Territory,MISSING
 VI,British Virgin Islands,VGB
-BX,Brunei,MISSING
+BX,Brunei,BRN
 BU,Bulgaria,BGR
 UV,Burkina Faso,BFA
 BY,Burundi,BDI
@@ -51,13 +51,13 @@ CH,China,CHN
 KT,Christmas Island,MISSING
 IP,Clipperton Island,MISSING
 CK,Cocos Keeling Islands,MISSING
-CO,Colombia,MISSING
+CO,Colombia,COL
 CN,Comoros,COM
-CF,Congo,MISSING
+CF,Congo,COG
 CW,Cook Islands,COK
 CR,Coral Sea Islands,MISSING
 CS,Costa Rica,CRI
-IV,Cote dIvoire,MISSING
+IV,Cote dIvoire,CIV
 HR,Croatia,HRV
 CU,Cuba,CUB
 CY,Cyprus,CYP
@@ -80,8 +80,8 @@ EN,Estonia,EST
 ET,Ethiopia,ETH
 PJ,"Etorofu, Habomai, Kunashiri and Shikotan Islands",MISSING
 EU,Europa Island,MISSING
-FK,Falkland Islands Islas Malvinas,MISSING
-FO,Faroe Islands,MISSING
+FK,Falkland Islands Islas Malvinas,FLK
+FO,Faroe Islands,FRO
 FJ,Fiji,FJI
 FI,Finland,FIN
 FR,France,FRA
@@ -144,7 +144,7 @@ LY,Libya,LBY
 LS,Liechtenstein,LIE
 LH,Lithuania,LTU
 LU,Luxembourg,LUX
-MC,Macau,MISSING
+MC,Macau,MAC
 MK,Macedonia,MKD
 MA,Madagascar,MDG
 MI,Malawi,MWI
@@ -225,15 +225,15 @@ SI,Slovenia,SVN
 BP,Solomon Islands,SLB
 SO,Somalia,SOM
 SF,South Africa,ZAF
-SX,South Georgia and the South Sandwich Islands,MISSING
+SX,South Georgia and the South Sandwich Islands,SGS
 KS,South Korea,KOR
-OD,South Sudan,MISSING
+OD,South Sudan,SSD
 SP,Spain,ESP
 PG,Spratly Islands,MISSING
 CE,Sri Lanka,LKA
 SU,Sudan,SDN
 NS,Suriname,SUR
-SV,Svalbard,MISSING
+SV,Svalbard,SJM
 WZ,Swaziland,SWZ
 SW,Sweden,SWE
 SZ,Switzerland,CHE
@@ -264,7 +264,7 @@ UZ,Uzbekistan,UZB
 NH,Vanuatu,VUT
 VT,Vatican City,VAT
 VE,Venezuela,VEN
-VM,"Vietnam, Democratic Republic of",MISSING
+VM,"Vietnam, Democratic Republic of",VNM
 VQ,Virgin Islands,MISSING
 WQ,Wake Island,MISSING
 WF,Wallis and Futuna,MISSING
