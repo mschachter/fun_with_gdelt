@@ -1,4 +1,4 @@
-di_id,year,value,name
+country2,year,human_aid,country_name
 AE,2000,0,UAE
 AE,2001,0,UAE
 AE,2002,0,UAE
@@ -1016,7 +1016,7 @@ GA,2010,0.583171,Gabon
 GA,2011,0.227857029,Gabon
 GA,2012,0.050263672,Gabon
 GA,2013,0.262777461,Gabon
-GA,2014,0.0000441003,Gabon
+GA,2014,4.41003E-05,Gabon
 GA,2015,0.560298492,Gabon
 GA,2016,0.051690048,Gabon
 GB,2000,0,United Kingdom
@@ -1152,7 +1152,7 @@ GQ,2010,0,Equatorial Guinea
 GQ,2011,0.034230102,Equatorial Guinea
 GQ,2012,0.05724807,Equatorial Guinea
 GQ,2013,0.008970001,Equatorial Guinea
-GQ,2014,0.0000258602,Equatorial Guinea
+GQ,2014,2.58602E-05,Equatorial Guinea
 GQ,2015,0.107776819,Equatorial Guinea
 GQ,2016,0.029521683,Equatorial Guinea
 GR,2000,0,Greece
@@ -1543,7 +1543,7 @@ KI,2010,5.408148,Kiribati
 KI,2011,1.184497153,Kiribati
 KI,2012,0.761281266,Kiribati
 KI,2013,0.042905014,Kiribati
-KI,2014,0.0000154497,Kiribati
+KI,2014,1.54497E-05,Kiribati
 KI,2015,0.29268164,Kiribati
 KI,2016,0.320596068,Kiribati
 KM,2000,1.819158,Comoros
@@ -2257,7 +2257,7 @@ NR,2010,0.793143,Nauru
 NR,2011,0.050416993,Nauru
 NR,2012,1.220308,Nauru
 NR,2013,0.266010892,Nauru
-NR,2014,0.00000062445,Nauru
+NR,2014,6.2445E-07,Nauru
 NR,2015,0.030368293,Nauru
 NR,2016,0.040011129,Nauru
 NU,2000,0.02196,Niue
@@ -2274,7 +2274,7 @@ NU,2010,0.784839,Niue
 NU,2011,0.050413394,Niue
 NU,2012,0.015180242,Niue
 NU,2013,0.035827824,Niue
-NU,2014,0.00000062445,Niue
+NU,2014,6.2445E-07,Niue
 NU,2015,0.03360872,Niue
 NU,2016,0.010043514,Niue
 NZ,2000,0,New Zealand
@@ -2713,12 +2713,12 @@ SH,2007,0,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2008,0,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2009,3.707932,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2010,0.697447,"Saint Helena, Ascension & Tristan da Cunha"
-SH,2011,0.0000359854,"Saint Helena, Ascension & Tristan da Cunha"
+SH,2011,3.59854E-05,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2012,0,"Saint Helena, Ascension & Tristan da Cunha"
-SH,2013,-0.0000000403281,"Saint Helena, Ascension & Tristan da Cunha"
+SH,2013,-4.03281E-08,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2014,0,"Saint Helena, Ascension & Tristan da Cunha"
 SH,2015,0.000212153,"Saint Helena, Ascension & Tristan da Cunha"
-SH,2016,0.0000111285,"Saint Helena, Ascension & Tristan da Cunha"
+SH,2016,1.11285E-05,"Saint Helena, Ascension & Tristan da Cunha"
 SI,2000,1.511848,Slovenia
 SI,2001,1.933691,Slovenia
 SI,2002,0.899428,Slovenia
@@ -2850,7 +2850,7 @@ ST,2008,0.831193335,Sao Tome & Principe
 ST,2009,0.009556,Sao Tome & Principe
 ST,2010,0.018638,Sao Tome & Principe
 ST,2011,0.035050102,Sao Tome & Principe
-ST,2012,-0.000000382234,Sao Tome & Principe
+ST,2012,-3.82234E-07,Sao Tome & Principe
 ST,2013,0.008970718,Sao Tome & Principe
 ST,2014,0.062114734,Sao Tome & Principe
 ST,2015,0.117245812,Sao Tome & Principe
@@ -3022,7 +3022,7 @@ TK,2010,0,Tokelau
 TK,2011,0.115382993,Tokelau
 TK,2012,0.009220725,Tokelau
 TK,2013,0.008581135,Tokelau
-TK,2014,0.00000116593,Tokelau
+TK,2014,1.16593E-06,Tokelau
 TK,2015,0.009757293,Tokelau
 TK,2016,0.0583979,Tokelau
 TL,2000,139.462883,Timor-Leste
