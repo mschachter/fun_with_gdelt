@@ -31,7 +31,7 @@ Botswana,BW,BWA
 Bouvet Island,BV,BVT
 Brazil,BR,BRA
 British Indian Ocean Territory,IO,IOT
-Brunei Darussalam,BN,BRN
+Brunei,BN,BRN
 Bulgaria,BG,BGR
 Burkina Faso,BF,BFA
 Burundi,BI,BDI
@@ -49,10 +49,10 @@ Cocos (Keeling) Islands,CC,CCK
 Colombia,CO,COL
 Comoros,KM,COM
 Congo,CG,COG
-Democratic Republic of Congo,CD,COD
+DR Congo,CD,COD
 Cook Islands,CK,COK
 Costa Rica,CR,CRI
-Côte d'Ivoire,CI,CIV
+Ivory Coast,CI,CIV
 Croatia,HR,HRV
 Cuba,CU,CUB
 Cyprus,CY,CYP
@@ -68,7 +68,7 @@ Equatorial Guinea,GQ,GNQ
 Eritrea,ER,ERI
 Estonia,EE,EST
 Ethiopia,ET,ETH
-Falkland Islands (Malvinas),FK,FLK
+Falkland Islands,FK,FLK
 Faroe Islands,FO,FRO
 Fiji,FJ,FJI
 Finland,FI,FIN
@@ -94,7 +94,7 @@ Guinea-Bissau,GW,GNB
 Guyana,GY,GUY
 Haiti,HT,HTI
 Heard Island and McDonald Islands,HM,HMD
-Holy See (Vatican City State),VA,VAT
+Vatican City,VA,VAT
 Honduras,HN,HND
 Hong Kong,HK,HKG
 Hungary,HU,HUN
@@ -118,16 +118,16 @@ North Korea,KP,PRK
 South Korea,KR,KOR
 Kuwait,KW,KWT
 Kyrgyzstan,KG,KGZ
-Lao People's Democratic Republic,LA,LAO
+Laos,LA,LAO
 Latvia,LV,LVA
 Lebanon,LB,LBN
 Lesotho,LS,LSO
 Liberia,LR,LBR
-Libyan Arab Jamahiriya,LY,LBY
+Libya,LY,LBY
 Liechtenstein,LI,LIE
 Lithuania,LT,LTU
 Luxembourg,LU,LUX
-Macao,MO,MAC
+Macau,MO,MAC
 Macedonia,MK,MKD
 Madagascar,MG,MDG
 Malawi,MW,MWI
@@ -167,7 +167,7 @@ Norway,NO,NOR
 Oman,OM,OMN
 Pakistan,PK,PAK
 Palau,PW,PLW
-Palestinian Territory,PS,PSE
+Palestine,PS,PSE
 Panama,PA,PAN
 Papua New Guinea,PG,PNG
 Paraguay,PY,PRY
@@ -178,15 +178,15 @@ Poland,PL,POL
 Portugal,PT,PRT
 Puerto Rico,PR,PRI
 Qatar,QA,QAT
-Réunion,RE,REU
+Reunion,RE,REU
 Romania,RO,ROU
-Russian Federation,RU,RUS
+Russia,RU,RUS
 Rwanda,RW,RWA
 Saint Barthélemy,BL,BLM
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN
 Saint Kitts and Nevis,KN,KNA
 Saint Lucia,LC,LCA
-Saint Martin (French part),MF,MAF
+Saint Martin,MF,MAF
 Saint Pierre and Miquelon,PM,SPM
 Saint Vincent and the Grenadines,VC,VCT
 Samoa,WS,WSM
@@ -212,8 +212,8 @@ Svalbard and Jan Mayen,SJ,SJM
 Swaziland,SZ,SWZ
 Sweden,SE,SWE
 Switzerland,CH,CHE
-Syrian Arab Republic,SY,SYR
-"Taiwan, Province of China",TW,TWN
+Syria,SY,SYR
+Taiwan,TW,TWN
 Tajikistan,TJ,TJK
 Tanzania,TZ,TZA
 Thailand,TH,THA
@@ -237,7 +237,7 @@ Uruguay,UY,URY
 Uzbekistan,UZ,UZB
 Vanuatu,VU,VUT
 Venezuela,VE,VEN
-Viet Nam,VN,VNM
+Vietnam,VN,VNM
 British Virgin Islands,VG,VGB
 US Virgin Islands,VI,VIR
 Wallis and Futuna,WF,WLF
