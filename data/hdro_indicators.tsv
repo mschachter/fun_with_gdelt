@@ -45,10 +45,10 @@ indicator_id	description	type
 71606	IHDI: Inequality-adjusted income index	economy
 73506	IHDI: Overall percentage loss	demography
 89006	Maternal mortality ratio (deaths per 100,000 live births)	health
-97106	Fresh water withdrawals (% of total renewable water resources)	economy
+97106	Fresh water withdrawals (% of total renewable water resources)	environment
 98306	Children under-five who are stunted (moderate and severe)	health
 99106	Net official development assistance received (% of GNI)	economy
-100806	Forest area (% of total land area)	economy
+100806	Forest area (% of total land area)	environment
 101406	Adult literacy rate (% ages 15 and older)	education
 101606	IHDI: Inequality in education	education
 101706	IHDI: Inequality in income	economy
@@ -101,8 +101,8 @@ indicator_id	description	type
 150606	Employment in agriculture (% of total employment)	economy
 150706	Employment in services (% of total employment)	economy
 153706	Working poor at PPP$3.10 a day (% of total employment)	economy
-163906	Renewable energy consumption (% of total final energy consumption)	economy
-164206	Change in forest area, 1990/2015	economy
+163906	Renewable energy consumption (% of total final energy consumption)	environment
+164206	Change in forest area, 1990/2015	environment
 164406	Adjusted net savings (% of GNI)	economy
 167406	Violence against women ever experienced, intimate partner (%)	health
 167506	Violence against women ever experienced, nonintimate partner (%)	health
@@ -111,8 +111,8 @@ indicator_id	description	type
 170006	Concentration index - exports	economy
 170106	Income quintile ratio - average annual change	economy
 174206	Total debt service (% of exports of goods, services and primary income)	economy
-174306	Fossil fuel energy consumption (% of total energy consumption)	economy
-174406	Carbon dioxide emissions kg per unit of GDP (2011 PPP $)	economy
+174306	Fossil fuel energy consumption (% of total energy consumption)	environment
+174406	Carbon dioxide emissions kg per unit of GDP (2011 PPP $)	environment
 174506	Mortality rate attributed to household and ambient air pollution (per 100,000 population)	health
 174606	Mortality rate attributed to unsafe water, sanitation and hygiene (WASH) services (per 100,000 population)	health
 175006	Female share of employment in senior and middle management (%)	economy
