@@ -33,5 +33,17 @@ def read_indicator_data():
     hdro_df.to_csv('data/hdro_indices_flat.csv', header=True, index=False)
 
 
+def correlation_matrix():
+
+    df = pd.read_csv('data/hdro_indices_flat.csv')
+
+    df['country3'] = df['country3'].astype('category')
+    df['indicator'] = df['indicator'].astype('str').astype('category')
+    df['year'] = pd.to_datetime(df['year'], format='%Y')
+
+    
+
+
+
 if __name__ == '__main__':
     read_indicator_data()
