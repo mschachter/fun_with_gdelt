@@ -1,0 +1,144 @@
+indicator_id	description	type
+21806	Refugees by country of origin (thousands)	demography
+23806	Population with at least some secondary education (% ages 25 and older)	education
+23906	Population with at least some secondary education, female (% ages 25 and older)	education
+24006	Population with at least some secondary education, male (% ages 25 and older)	education
+24106	GDI: Mean years of schooling (females aged 25 years and above)	education
+24206	GDI: Mean years of schooling (males aged 25 years and above)	education
+27706	Carbon dioxide emissions per capita (tonnes)	environment
+31706	Share of seats in parliament (% held by women)	government
+36806	Adolescent birth rate (births per 1,000 women ages 15-19)	health
+43006	Vulnerable employment (% of total employment)	economy
+43606	Internet users (% of population)	economy
+44206	Population, total (millions)	demography
+45106	Population, urban (%)	demography
+45806	Primary school teachers trained to teach (%)	education
+46006	Mobile phone subscriptions (per 100 people)	economy
+46106	Primary school dropout rate (% of primary school cohort)	education
+46206	Pupil-teacher ratio, primary school (number of pupils per teacher)	education
+47906	Population, median age (years)	demography
+48706	Labour force participation rate, female (% ages 15 and older)	economy
+48806	Labour force participation rate, male (% ages 15 and older)	economy
+49006	Sex ratio at birth (male to female births)	demography
+52306	Research and development expenditure (% of GDP)	economy
+52606	Remittances, inflows (% of GDP)	economy
+53506	Foreign direct investment, net inflows (% of GDP)	economy
+57206	Infant mortality rate (per 1,000 live births)	health
+57506	Under-five mortality rate (per 1,000 live births)	health
+57806	Adult mortality rate, female (per 1,000 people)	health
+57906	Adult mortality rate, male (per 1,000 people)	health
+58006	HIV prevalence, adult (% ages 15-49)	health
+61006	Homicide rate (per 100,000 people)	health
+63106	Population aged 15-64 years, both sexes	demography
+63206	Gross enrolment ratio, primary (% of primary school-age population)	education
+63306	Gross enrolment ratio, secondary (% of secondary school-age population)	education
+63406	Gross enrolment ratio, tertiary (% of tertiary school-age population)	education
+64306	Infants lacking immunization, measles (% of one-year-olds)	health
+64406	Infants lacking immunization, DPT (% of one-year-olds)	health
+65606	Gross fixed capital formation (% of GDP)	economy
+67106	IHDI: Income Gini coefficient	economy
+68606	GII: Gender Inequality Index, value	demography
+69206	HDI: Life expectancy at birth	health
+69706	HDI: Expected Years of Schooling (of children)	education
+71406	IHDI: Inequality-adjusted education index	education
+71506	IHDI: Inequality-adjusted life expectancy index	health
+71606	IHDI: Inequality-adjusted income index	economy
+73506	IHDI: Overall percentage loss	demography
+89006	Maternal mortality ratio (deaths per 100,000 live births)	health
+97106	Fresh water withdrawals (% of total renewable water resources)	economy
+98306	Children under-five who are stunted (moderate and severe)	health
+99106	Net official development assistance received (% of GNI)	economy
+100806	Forest area (% of total land area)	economy
+101406	Adult literacy rate (% ages 15 and older)	education
+101606	IHDI: Inequality in education	education
+101706	IHDI: Inequality in income	economy
+101806	IHDI: Inequality in life expectancy	health
+103006	HDI: Mean years of schooling (of adults)	education
+103206	HDI: Life expectancy index	health
+103606	HDI: Income index	economy
+103706	HDI: Education index	education
+110806	Net migration rate (per 1,000 people)	demography
+110906	Youth unemployment rate (% ages 15-24)	economy
+111106	International inbound tourists (thousands)	economy
+111306	Private capital flows (% of GDP)	economy
+112506	Suicide rate, male (per 100,000 people)	health
+112606	Suicide rate, female (per 100,000 people)	health
+120606	GDI: Life expectancy at birth, female	health
+121106	GDI: Life expectancy at birth, male	health
+121206	Dependency ratio, young age (0-14) (per 100 people ages 15-64)	economy
+122006	Dependency ratio, old age (65 and older) (per 100 people ages 15-64)	economy
+123306	GDI: Expected years of schooling, females	education
+123406	GDI: Expected years of schooling, males	education
+123506	GDI: Estimated GNI per capita (PPP), female	economy
+123606	GDI: Estimated GNI per capita (PPP), male	economy
+123806	Old age pension recipients (% of statutory pension age population)	economy
+127606	Domestic credit provided by financial sector (% of GDP)	economy
+128106	Mandatory paid maternity leave (days)	health
+128306	Prison population (per 100,000 people)	demography
+132706	Population, ages 65 and older (millions)	demography
+132806	Population, under age 5 (millions)	demography
+133006	Gross enrolment ratio, pre-primary (% of preschool-age children)	education
+133206	Exports and imports (% of GDP)	economy
+135006	IHDI: Coefficient of Human Inequality	demography
+135106	IHDI: Income quintile ratio	economy
+135206	IHDI: Palma ratio (Highest 10% over lowest 40%)	economy
+136706	Gross domestic product (GDP) per capita (2011 PPP $)	economy
+136906	GDI: Female HDI, Geometric	demography
+137006	GDI: Male HDI, Geometric	demography
+137506	HDI: Human development index (HDIg) value	demography
+137906	GDI: Gender Development Index	demography
+138806	IHDI: Inequality-adjusted HDI (geom) value	economy
+140606	Total unemployment rate (% of labour force)	economy
+141706	HDI: GNI per capita in PPP terms (constant 2011 international $)	economy
+143306	Gross domestic product (GDP), total (2011 PPP $ billions)	economy
+146206	HDI: HDI (3-digit) rank	demography
+147206	International student mobility (% of total tertiary enrolment)	education
+147906	Youth not in school or employment (% ages 15-24)	economy
+148206	Labour force participation rate (% ages 15 and older)	economy
+148306	Employment to population ratio (% ages 15 and older)	economy
+149206	Government expenditure on education (% of GDP)	education
+149406	Homeless people due to natural disaster (average annual per million people)	demography
+150606	Employment in agriculture (% of total employment)	economy
+150706	Employment in services (% of total employment)	economy
+153706	Working poor at PPP$3.10 a day (% of total employment)	economy
+163906	Renewable energy consumption (% of total final energy consumption)	economy
+164206	Change in forest area, 1990/2015	economy
+164406	Adjusted net savings (% of GNI)	economy
+167406	Violence against women ever experienced, intimate partner (%)	health
+167506	Violence against women ever experienced, nonintimate partner (%)	health
+169706	GD: Unemployment rate (total), female to male ratio	economy
+169806	GD: Youth unemployment rate, female to male ratio	economy
+170006	Concentration index - exports	economy
+170106	Income quintile ratio - average annual change	economy
+174206	Total debt service (% of exports of goods, services and primary income)	economy
+174306	Fossil fuel energy consumption (% of total energy consumption)	economy
+174406	Carbon dioxide emissions kg per unit of GDP (2011 PPP $)	economy
+174506	Mortality rate attributed to household and ambient air pollution (per 100,000 population)	health
+174606	Mortality rate attributed to unsafe water, sanitation and hygiene (WASH) services (per 100,000 population)	health
+175006	Female share of employment in senior and middle management (%)	economy
+175106	Share of employment in nonagriculture, female (%)	economy
+175206	Antenatal care coverage, at least one visit (%)	health
+175506	Contraceptive prevalence, any method (%)	health
+175606	Unmet need for family planning (%)	health
+175706	Account ownership at a financial institution or with a mobile-money-service provider, female (%)	economy
+175906	Share of female science, mathematics, engineering, manufacturing and construction graduates at tertiary level (%)	education
+176606	Proportion of schools with access to the Internet (%)	education
+176806	Programme for International Student Assessment (PISA) score in science	education
+176906	Programme for International Student Assessment (PISA) score in reading	education
+177006	Programme for International Student Assessment (PISA) score in mathematics	education
+177106	Population using improved drinking-water sources (%)	health
+177206	Population using improved sanitation facilities (%)	health
+177706	Survival rate to the last grade of lower secondary general education, both sexes (%)	health
+178106	Internet users, female (% of population)	economy
+178306	Gross capital formation (% of GDP)	economy
+179406	Skilled labour force (% of labour force)	economy
+179706	Education and health expenditure to military expenditure, ratio	economy
+181106	Birth registration (% under age 5) [SDG]	demography
+181206	Proportion of births attended by skilled health personnel [SDG]	health
+181306	Child labour (% ages 5-17) [SDG]	economy
+181406	Child marriage, married by age 18 (%) [SDG]	demography
+181606	Red List Index	economy
+181706	Rural population with access to electricity (%)	demography
+181806	Current health expenditure (% of GDP)	economy
+182106	Malaria incidence rate (per 1,000 population at risk)	health
+182206	Tuberculosis incidence rate (per 100,000 population)	health
