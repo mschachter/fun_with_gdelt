@@ -46,6 +46,8 @@ def trim_dataset():
                         'population': 'population'
                         }
 
+    features_to_keep_rev = {v:k for k,v in features_to_keep.items()}
+
     feature_order = ['country2',
                      'country_name',
                      'year',
@@ -105,7 +107,14 @@ def trim_dataset():
     for k,nf in sorted(nan_fractions.items(), key=operator.itemgetter(1), reverse=True):
         print('nanfrac={:0.2f} | {}'.format(nf, k))
 
-    df.to_csv('data/ppav_hdro_final.csv', header=True, index=False, na_rep='nan', columns=feature_order)
+    print('')
+    for feature_name in feature_order:
+        feature_id = features_to_keep_rev[feature_name]
+        print('{}: {}'.format(feature_name, id_to_desc.get(feature_id, feature_id)))
+
+    print(feature_order)
+
+    # df.to_csv('data/ppav_hdro_final.csv', header=True, index=False, na_rep='nan', columns=feature_order)
 
 
 def plot_feature_histograms():
